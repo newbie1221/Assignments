@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\handsonarray\bin\Debug\net6.0\handsonarray.exe
+C:\Users\Administrator\source\repos\handsonarray\bin\Debug\net6.0\handsonarray.deps.json
+C:\Users\Administrator\source\repos\handsonarray\bin\Debug\net6.0\handsonarray.runtimeconfig.json
+C:\Users\Administrator\source\repos\handsonarray\bin\Debug\net6.0\handsonarray.dll
+C:\Users\Administrator\source\repos\handsonarray\bin\Debug\net6.0\handsonarray.pdb
+C:\Users\Administrator\source\repos\handsonarray\obj\Debug\net6.0\handsonarray.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\handsonarray\obj\Debug\net6.0\handsonarray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\handsonarray\obj\Debug\net6.0\handsonarray.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\handsonarray\obj\Debug\net6.0\handsonarray.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\handsonarray\obj\Debug\net6.0\handsonarray.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\handsonarray\obj\Debug\net6.0\handsonarray.dll
+C:\Users\Administrator\source\repos\handsonarray\obj\Debug\net6.0\refint\handsonarray.dll
+C:\Users\Administrator\source\repos\handsonarray\obj\Debug\net6.0\handsonarray.pdb
+C:\Users\Administrator\source\repos\handsonarray\obj\Debug\net6.0\handsonarray.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\handsonarray\obj\Debug\net6.0\ref\handsonarray.dll
