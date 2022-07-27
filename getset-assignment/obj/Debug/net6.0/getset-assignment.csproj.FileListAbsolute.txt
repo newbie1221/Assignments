@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\getset-assignment\bin\Debug\net6.0\getset-assignment.exe
+C:\Users\Administrator\source\repos\getset-assignment\bin\Debug\net6.0\getset-assignment.deps.json
+C:\Users\Administrator\source\repos\getset-assignment\bin\Debug\net6.0\getset-assignment.runtimeconfig.json
+C:\Users\Administrator\source\repos\getset-assignment\bin\Debug\net6.0\getset-assignment.dll
+C:\Users\Administrator\source\repos\getset-assignment\bin\Debug\net6.0\getset-assignment.pdb
+C:\Users\Administrator\source\repos\getset-assignment\obj\Debug\net6.0\getset-assignment.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\getset-assignment\obj\Debug\net6.0\getset-assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\getset-assignment\obj\Debug\net6.0\getset-assignment.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\getset-assignment\obj\Debug\net6.0\getset-assignment.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\getset-assignment\obj\Debug\net6.0\getset-assignment.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\getset-assignment\obj\Debug\net6.0\getset-assignment.dll
+C:\Users\Administrator\source\repos\getset-assignment\obj\Debug\net6.0\refint\getset-assignment.dll
+C:\Users\Administrator\source\repos\getset-assignment\obj\Debug\net6.0\getset-assignment.pdb
+C:\Users\Administrator\source\repos\getset-assignment\obj\Debug\net6.0\getset-assignment.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\getset-assignment\obj\Debug\net6.0\ref\getset-assignment.dll
