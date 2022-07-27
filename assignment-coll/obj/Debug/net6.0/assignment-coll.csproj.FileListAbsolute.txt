@@ -1,0 +1,15 @@
+C:\Users\DDebnath\source\repos\assignment-coll\bin\Debug\net6.0\assignment-coll.exe
+C:\Users\DDebnath\source\repos\assignment-coll\bin\Debug\net6.0\assignment-coll.deps.json
+C:\Users\DDebnath\source\repos\assignment-coll\bin\Debug\net6.0\assignment-coll.runtimeconfig.json
+C:\Users\DDebnath\source\repos\assignment-coll\bin\Debug\net6.0\assignment-coll.dll
+C:\Users\DDebnath\source\repos\assignment-coll\bin\Debug\net6.0\assignment-coll.pdb
+C:\Users\DDebnath\source\repos\assignment-coll\obj\Debug\net6.0\assignment-coll.csproj.AssemblyReference.cache
+C:\Users\DDebnath\source\repos\assignment-coll\obj\Debug\net6.0\assignment-coll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DDebnath\source\repos\assignment-coll\obj\Debug\net6.0\assignment-coll.AssemblyInfoInputs.cache
+C:\Users\DDebnath\source\repos\assignment-coll\obj\Debug\net6.0\assignment-coll.AssemblyInfo.cs
+C:\Users\DDebnath\source\repos\assignment-coll\obj\Debug\net6.0\assignment-coll.csproj.CoreCompileInputs.cache
+C:\Users\DDebnath\source\repos\assignment-coll\obj\Debug\net6.0\assignment-coll.dll
+C:\Users\DDebnath\source\repos\assignment-coll\obj\Debug\net6.0\refint\assignment-coll.dll
+C:\Users\DDebnath\source\repos\assignment-coll\obj\Debug\net6.0\assignment-coll.pdb
+C:\Users\DDebnath\source\repos\assignment-coll\obj\Debug\net6.0\assignment-coll.genruntimeconfig.cache
+C:\Users\DDebnath\source\repos\assignment-coll\obj\Debug\net6.0\ref\assignment-coll.dll
