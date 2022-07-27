@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\inheritenceA\obj\Debug\net6.0\inheritenceA.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\inheritenceA\obj\Debug\net6.0\inheritenceA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\inheritenceA\obj\Debug\net6.0\inheritenceA.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\inheritenceA\obj\Debug\net6.0\inheritenceA.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\inheritenceA\obj\Debug\net6.0\inheritenceA.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\inheritenceA\bin\Debug\net6.0\inheritenceA.exe
+C:\Users\Administrator\source\repos\inheritenceA\bin\Debug\net6.0\inheritenceA.deps.json
+C:\Users\Administrator\source\repos\inheritenceA\bin\Debug\net6.0\inheritenceA.runtimeconfig.json
+C:\Users\Administrator\source\repos\inheritenceA\bin\Debug\net6.0\inheritenceA.dll
+C:\Users\Administrator\source\repos\inheritenceA\bin\Debug\net6.0\inheritenceA.pdb
+C:\Users\Administrator\source\repos\inheritenceA\obj\Debug\net6.0\inheritenceA.dll
+C:\Users\Administrator\source\repos\inheritenceA\obj\Debug\net6.0\refint\inheritenceA.dll
+C:\Users\Administrator\source\repos\inheritenceA\obj\Debug\net6.0\inheritenceA.pdb
+C:\Users\Administrator\source\repos\inheritenceA\obj\Debug\net6.0\inheritenceA.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\inheritenceA\obj\Debug\net6.0\ref\inheritenceA.dll
